@@ -25,15 +25,19 @@ This repository contains a comprehensive analysis of the **top 20 AI coding assi
 ## 📖 Documentation
 
 ### 📚 Main Documents
+- **[📇 Complete Index](./INDEX.md)** - Navigation guide to all documents
 - **[📄 Full Report (25,000+ words)](./ai-coding-tools-2024-report.md)** - Comprehensive analysis of all 20 tools
 - **[⚡ Executive Summary (5-min read)](./SUMMARY.md)** - Quick overview and recommendations
 - **[📊 Comparison Tables](./COMPARISON-TABLE.md)** - Detailed feature matrices and comparisons
 - **[🎯 Quick Reference](./QUICK-REFERENCE.md)** - At-a-glance decision guides
+- **[📅 2024 Timeline](./2024-TIMELINE.md)** - Market evolution and major events
 
 ### 🚀 Quick Start
 **New to AI coding?** Start with the [Executive Summary](./SUMMARY.md)  
 **Need a specific tool?** Check the [Comparison Tables](./COMPARISON-TABLE.md)  
-**Want deep analysis?** Read the [Full Report](./ai-coding-tools-2024-report.md)
+**Want deep analysis?** Read the [Full Report](./ai-coding-tools-2024-report.md)  
+**Understanding the market?** See the [2024 Timeline](./2024-TIMELINE.md)  
+**Not sure where to look?** Check the [Complete Index](./INDEX.md)
 
 ## 🛠️ Tools Covered
 
