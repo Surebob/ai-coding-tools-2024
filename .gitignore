@@ -14,3 +14,4 @@ Thumbs.db
 # Temp files
 *.tmp
 *.log
+node_modules/
