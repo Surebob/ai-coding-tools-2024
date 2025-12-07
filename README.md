@@ -1,8 +1,11 @@
 # AI Coding Tools 2024 - Comprehensive Analysis
 
-![AI Coding Tools](https://img.shields.io/badge/AI-Coding%20Tools-blue)
-![2024 Report](https://img.shields.io/badge/Year-2024-green)
-![Tools Analyzed](https://img.shields.io/badge/Tools-20-orange)
+[![AI Coding Tools](https://img.shields.io/badge/AI-Coding%20Tools-blue)](https://github.com/Surebob/ai-coding-tools-2024)
+[![2024 Report](https://img.shields.io/badge/Year-2024-green)](https://github.com/Surebob/ai-coding-tools-2024)
+[![Tools Analyzed](https://img.shields.io/badge/Tools-20-orange)](./ai-coding-tools-2024-report.md)
+[![Research Sources](https://img.shields.io/badge/Sources-220%2B-red)](./ai-coding-tools-2024-report.md)
+[![License](https://img.shields.io/badge/License-MIT-yellow)](./LICENSE)
+[![GitHub Stars](https://img.shields.io/github/stars/Surebob/ai-coding-tools-2024?style=social)](https://github.com/Surebob/ai-coding-tools-2024/stargazers)
 
 ## 📊 Overview
 
@@ -19,9 +22,18 @@ This repository contains a comprehensive analysis of the **top 20 AI coding assi
 - **Comparison Matrix** for easy reference
 - **Industry Trends** and 2025 predictions
 
-## 📖 Read the Report
+## 📖 Documentation
 
-**[📄 Full Report: AI Coding Tools 2024](./ai-coding-tools-2024-report.md)**
+### 📚 Main Documents
+- **[📄 Full Report (25,000+ words)](./ai-coding-tools-2024-report.md)** - Comprehensive analysis of all 20 tools
+- **[⚡ Executive Summary (5-min read)](./SUMMARY.md)** - Quick overview and recommendations
+- **[📊 Comparison Tables](./COMPARISON-TABLE.md)** - Detailed feature matrices and comparisons
+- **[🎯 Quick Reference](./QUICK-REFERENCE.md)** - At-a-glance decision guides
+
+### 🚀 Quick Start
+**New to AI coding?** Start with the [Executive Summary](./SUMMARY.md)  
+**Need a specific tool?** Check the [Comparison Tables](./COMPARISON-TABLE.md)  
+**Want deep analysis?** Read the [Full Report](./ai-coding-tools-2024-report.md)
 
 ## 🛠️ Tools Covered
 
